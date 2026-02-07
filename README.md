@@ -6,7 +6,7 @@
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=Full-Stack+Data+%2B+ML+%2F+DL+%2F+AI+Enthusiast;Obsessed+with+turning+data+into+intelligence;Building+systems+that+think+and+scale" alt="Typing SVG" /></a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=stevenuuang&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+[GitHub Streak](https://streak-stats.demolab.com?user=stevenuuang&theme=tokyonight&hide_border=true&border_radius=10)
 
 </div>
 
