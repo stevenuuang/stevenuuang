@@ -1,0 +1,20 @@
+name: Update Streak Stats
+on:
+  schedule:
+    - cron: '0 */12 * * *'  # Every 12 hours
+  workflow_dispatch:
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate Streak Stats
+        run: |
+          curl -o assets/streak-stats.svg "https://streak-stats.demolab.com?user=stevenuuang&theme=tokyonight&hide_border=true&border_radius=10"
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add assets/streak-stats.svg
+          git commit -m "Update streak stats" || exit 0
+          git push
