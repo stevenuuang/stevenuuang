@@ -6,7 +6,16 @@
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=Full-Stack+Data+%2B+ML+%2F+DL+%2F+AI+Enthusiast;Obsessed+with+turning+data+into+intelligence;Building+systems+that+think+and+scale" alt="Typing SVG" /></a>
 
-[GitHub Streak](https://streak-stats.demolab.com?user=stevenuuang&theme=tokyonight&hide_border=true&border_radius=10)
+![GitHub Streak](./assets/streak-stats.svg)
+
+
+</div>
+
+---
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/stevenuuang/stevenuuang/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -116,16 +125,6 @@ I also fully embrace the **vibe coding** era. Why fight the AI when you can vibe
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/stevenuuang/stevenuuang/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
