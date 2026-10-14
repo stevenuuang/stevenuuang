@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=%E4%BD%A0%E5%A5%BD,%20I'm%20Steven%20Wang%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=Data+Scientist+%2F+ML+%26+AI+Engineer;Forecasting%2C+LLM+agents%2C+data+pipelines" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=Data+Scientist+%2F+ML+%26+AI+Engineer;From+raw+data+to+shipped+product" alt="Typing SVG" /></a>
 
 [![Website](https://img.shields.io/badge/stevenwang.ai-000000?style=for-the-badge&logo=gnubash&logoColor=white)](https://stevenwang.ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xinzhi-wang-2b7a261aa)
@@ -18,7 +18,7 @@
 
 ## About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=15&duration=1200&pause=400&color=3FB950&background=0D1117&multiline=true&repeat=false&width=760&height=300&lines=%24%20whoami%3Bsteven%20wang%20%C2%B7%20data%20scientist%20%2F%20ml%20%26%20ai%20engineer%3B%24%20cat%20interests.txt%3Bforecasting%2C%20ml%20systems%2C%20llm%20agents%2C%20and%20losing%20to%20the%20ghosts%20in%20pac-man%3B%24%20ls%20~%2Farcade%3Bsnake%20%20pac-man%20%20breakout%20%20galaga%20%20puzzle-bobble%20%20bomberman%20%20minesweeper%3B%24%20.%2Fplay%20--all%3B%E2%86%92%20all%207%20run%20on%20my%20contribution%20graph%2C%20scroll%20down%20%E2%86%93%3B%24%20open%20stevenwang.ai%3B%E2%86%92%20try%20typing%20%60help%60" alt="whoami: steven wang, data scientist / ml engineer" width="100%">
+<img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=15&duration=1200&pause=400&color=3FB950&background=0D1117&multiline=true&repeat=false&width=760&height=300&lines=%24%20whoami%3Bsteven%20wang%20%C2%B7%20data%20scientist%20%2F%20ml%20%26%20ai%20engineer%3B%24%20cat%20interests.txt%3Bbuilding%20things%20end%20to%20end%2C%20and%20losing%20to%20the%20ghosts%20in%20pac-man%3B%24%20ls%20~%2Farcade%3Bsnake%20%20pac-man%20%20breakout%20%20galaga%20%20puzzle-bobble%20%20bomberman%20%20minesweeper%3B%24%20.%2Fplay%20--all%3B%E2%86%92%20all%207%20run%20on%20my%20contribution%20graph%2C%20scroll%20down%20%E2%86%93%3B%24%20open%20stevenwang.ai%3B%E2%86%92%20try%20typing%20%60help%60" alt="whoami: steven wang, data scientist / ml engineer" width="100%">
 
 ---
 
