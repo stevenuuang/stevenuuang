@@ -2,7 +2,7 @@ name: Refresh Profile
 
 on:
   schedule:
-    - cron: "0 5 * * *"  # Daily at 05:00 UTC, after the streak repo's daily run
+    - cron: "0 14 * * *"  # Daily at 14:00 UTC, after the streak repo's daily run
   workflow_dispatch:
   push:
     branches: [main]
